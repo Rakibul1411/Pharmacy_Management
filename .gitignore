@@ -12,6 +12,7 @@ backend/.mvn/wrapper/maven-wrapper.jar
 .settings
 .springBeans
 .sts4-cache
+.DS_Store
 
 ### IntelliJ IDEA ###
 backend/.idea/
